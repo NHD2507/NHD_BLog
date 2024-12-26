@@ -1,0 +1,7 @@
+baseURL = 'https://nhdblog.netlify.app/'
+languageCode = 'en-us'
+title = 'Blog của Đạt'
+theme = "hugo-theme-reimu"
+[markup.highlight]
+guessSyntax = true
+noClasses = false
