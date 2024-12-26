@@ -1,6 +1,6 @@
 baseURL = 'https://nhdblog.netlify.app/'
 languageCode = 'en-us'
-title = 'Blog của Đạt'
+title = 'Blog của Hữu Đạt'
 theme = "hugo-theme-reimu"
 [markup.highlight]
 guessSyntax = true
